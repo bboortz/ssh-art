@@ -22,7 +22,8 @@ go build
 
 ## inspired by
 
-[Making art with SSH key randomart](https://blog.benjojo.co.uk/post/ssh-randomart-how-does-it-work-art)
+* [Making art with SSH key randomart](https://blog.benjojo.co.uk/post/ssh-randomart-how-does-it-work-art)
+* [randomart](https://github.com/calmh/randomart)
 
 
 
